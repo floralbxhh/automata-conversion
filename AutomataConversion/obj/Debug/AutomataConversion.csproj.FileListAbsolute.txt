@@ -1,0 +1,13 @@
+C:\Users\Albi\Desktop\Projekti\automata_conversion\NfaAndDfa\bin\Debug\AutomataConversion.exe.config
+C:\Users\Albi\Desktop\Projekti\automata_conversion\NfaAndDfa\bin\Debug\AutomataConversion.exe
+C:\Users\Albi\Desktop\Projekti\automata_conversion\NfaAndDfa\bin\Debug\AutomataConversion.pdb
+C:\Users\Albi\Desktop\Projekti\automata_conversion\NfaAndDfa\obj\Debug\AutomataConversion.csproj.CoreCompileInputs.cache
+C:\Users\Albi\Desktop\Projekti\automata_conversion\NfaAndDfa\obj\Debug\AutomataConversion.exe
+C:\Users\Albi\Desktop\Projekti\automata_conversion\NfaAndDfa\obj\Debug\AutomataConversion.pdb
+C:\Users\Albi\Desktop\Projekti\automata_conversion\AutomataConversion\bin\Debug\AutomataConversion.exe.config
+C:\Users\Albi\Desktop\Projekti\automata_conversion\AutomataConversion\bin\Debug\AutomataConversion.exe
+C:\Users\Albi\Desktop\Projekti\automata_conversion\AutomataConversion\bin\Debug\AutomataConversion.pdb
+C:\Users\Albi\Desktop\Projekti\automata_conversion\AutomataConversion\obj\Debug\AutomataConversion.csprojAssemblyReference.cache
+C:\Users\Albi\Desktop\Projekti\automata_conversion\AutomataConversion\obj\Debug\AutomataConversion.csproj.CoreCompileInputs.cache
+C:\Users\Albi\Desktop\Projekti\automata_conversion\AutomataConversion\obj\Debug\AutomataConversion.exe
+C:\Users\Albi\Desktop\Projekti\automata_conversion\AutomataConversion\obj\Debug\AutomataConversion.pdb
